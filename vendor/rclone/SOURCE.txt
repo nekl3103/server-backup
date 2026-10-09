@@ -1,0 +1,2 @@
+https://downloads.rclone.org/v1.75.1/rclone-v1.75.1-osx-arm64.zip
+Archive SHA256: c61d7a371c62bcbbe882c3423aa4b8bf63485c248dd0f692997b8f0c3f6d0c6f
